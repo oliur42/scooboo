@@ -73,7 +73,7 @@ function Header1() {
             <input
               type="text"
               placeholder="Search for collection"
-              className="w-full md:w-[400px] py-2 px-3 outline-none bg-gray-300"
+              className="w-full md:w-[800px] py-2 px-3 outline-none bg-gray-300"
             />
             <Link href="/">
               <IoMdMic className="text-[26px] text-black" />
