@@ -4,7 +4,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "afrotouch.design",
+        hostname: "scooboo.in",
       },
       {
         protocol:"https",
