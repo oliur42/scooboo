@@ -36,7 +36,7 @@ function Header1() {
 
   return (
     <div className="w-full px-4 py-4 bg-white shadow">
-      <div className="max-w-[1300px] mx-auto flex flex-wrap md:flex-nowrap justify-between items-center gap-4">
+      <div className="max-w-[1200px] mx-auto flex flex-wrap md:flex-nowrap justify-between items-center gap-4">
         {/* Logo */}
         <div className="flex items-center gap-2">
           <CgAdidas className="text-red-800 text-[30px]" />

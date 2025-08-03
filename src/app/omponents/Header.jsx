@@ -41,7 +41,7 @@ export default function Header() {
 
   return (
     <header className="w-full bg-white shadow-md">
-      <div className="max-w-[1300px] mx-auto px-4 py-4 flex justify-between items-center">
+      <div className="max-w-[1200px] mx-auto px-4 py-4 flex justify-between items-center">
         
 
         {/* Desktop Nav */}
@@ -53,7 +53,7 @@ export default function Header() {
                   onMouseEnter={() => handleMouseEnter(index)}
                   onMouseLeave={handleMouseLeave}
                 >
-                  <button className="flex items-center gap-1 font-medium hover:text-red-500">
+                  <button className="flex items-center gap-2 text-[15px] hover:text-red-500">
                     {item.title}
                     <span>▼</span>
                   </button>

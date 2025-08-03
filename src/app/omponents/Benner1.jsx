@@ -38,7 +38,7 @@ const products = [
 export default function Benner1() {
   return (
     <div className="w-full bg-white py-6">
-      <div className="max-w-[1300px] mx-auto px-4 flex flex-col lg:flex-row gap-6">
+      <div className="max-w-[1200px] mx-auto px-4 flex flex-col lg:flex-row gap-6">
         {/* Left Banner */}
         <div className="w-full lg:w-[300px]">
           <Image
