@@ -77,34 +77,34 @@ function Benner3() {
                         </div>
                     ))}
                 </div>
-                <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 gap-4 py-10">
+                <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 gap-10 py-10">
                     <Image
-                        src="https://scooboo.in/cdn/shop/files/newtheme_under_99-2.jpg?v=1716004556&width=1000"
-                        height={300}
-                        width={300}
+                        src="https://scooboo.in/cdn/shop/files/199_50c57770-7271-4249-9004-ec812dd647fe.jpg?v=1753967261&width=1000"
+                        height={1750}
+                        width={450}
                         alt="logo"
-                        className="w-full"
+                        className="w-full h-[320px]"
                     />
                     <Image
-                        src="https://scooboo.in/cdn/shop/files/newtheme_under_199-2.jpg?v=1716004557&width=1000"
-                        height={300}
-                        width={300}
+                        src="https://scooboo.in/cdn/shop/files/99_1d9532aa-c79a-45bb-be85-3351fe6cf0a9.jpg?v=1753967260&width=1000"
+                        height={1750}
+                        width={450}
                         alt="logo"
-                        className="w-full"
+                        className="w-full h-[320px]"
                     />
                     <Image
-                        src="https://scooboo.in/cdn/shop/files/newtheme_under_299-2.jpg?v=1716004557&width=1000"
-                        height={300}
-                        width={300}
+                        src="https://scooboo.in/cdn/shop/files/299_b6932473-a0ae-4bb1-aeaa-510bc763ea7b.jpg?v=1753967261&width=1000"
+                        height={1750}
+                        width={450}
                         alt="logo"
-                        className="w-full"
+                        className="w-full h-[320px]"
                     />
                     <Image
-                        src="https://scooboo.in/cdn/shop/files/under_499_-2.jpg?v=1716012319&width=1000"
-                        height={300}
-                        width={300}
+                        src="https://scooboo.in/cdn/shop/files/499_7e279afd-db22-40dc-9741-485d79844159.jpg?v=1753967261&width=1000"
+                        height={1750}
+                        width={450}
                         alt="logo"
-                        className="w-full"
+                        className="w-full h-[320px]"
                     />
                 </div>
 

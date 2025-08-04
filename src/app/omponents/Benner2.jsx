@@ -79,12 +79,31 @@ function Benner2() {
                     ))}
                 </div>
             </div>
-            <div className='py-10'>
-                <Image src="https://scooboo.in/cdn/shop/files/smileyworld_banner.gif?v=1718893058&width=1750"
-                    width={250}
-                    height={150}
-                    className="mx-auto w-[1200px] h-[420px] object-cover" />
+            <div className="py-10 px-4">
+                <Image
+                    src="https://scooboo.in/cdn/shop/files/smileyworld_banner.gif?v=1718893058&width=1750"
+                    width={1200}
+                    height={420}
+                    alt="Banner"
+                    className="
+      mx-auto 
+      w-full 
+      max-w-[95%] 
+      sm:max-w-[600px] 
+      md:max-w-[800px] 
+      lg:max-w-[1000px] 
+      xl:max-w-[1200px] 
+      h-[180px] 
+      sm:h-[250px] 
+      md:h-[300px] 
+      lg:h-[380px] 
+      xl:h-[420px] 
+      object-cover
+      rounded-xl
+    "
+                />
             </div>
+
         </div>
     )
 }
